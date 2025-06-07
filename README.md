@@ -21,7 +21,7 @@ src/
 ### ⚙️ Setup & Run
 
 # 1. Clone repo
-git clone https://github.com/your-username/react-challenge.git
+git clone [https://github.com/your-username/react-challenge.git](https://github.com/akhila-048/girus_project)
 cd react-challenge
 
 # 2. Install dependencies
